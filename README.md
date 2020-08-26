@@ -37,14 +37,21 @@ a set of points of the minimum size such that all the coordinates of the points 
 <br/>
 
 __Sample 1.__
+<br/>
 Input:
+<br/>
 3
+<br/>
 1 3
+<br/>
 2 5
+<br/>
 3 6
 <br/>
 Output:
+<br/>
 1
+<br/>
 3
 <br/>
 In this sample, we have three segments: [1, 3], [2, 5], [3, 6] (of length 2, 3, 3 respectively). All of them
